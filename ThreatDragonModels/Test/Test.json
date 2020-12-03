@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Test",
-    "owner": "Sanklan"
+    "owner": "Sanklan",
+    "description": "Test"
   },
   "detail": {
     "contributors": [],
@@ -11,6 +12,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "sanklan"
   }
 }
