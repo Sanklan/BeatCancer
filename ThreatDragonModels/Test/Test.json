@@ -5,7 +5,11 @@
     "description": "Test"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "sanklan"
+      }
+    ],
     "diagrams": [
       {
         "title": "Test1",
